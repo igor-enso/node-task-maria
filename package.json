@@ -1,0 +1,14 @@
+{
+  "name": "task-maria",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "mariadb": "^3.0.0"
+  }
+}
