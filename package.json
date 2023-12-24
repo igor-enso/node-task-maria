@@ -9,6 +9,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "mariadb": "^3.0.0"
+    "mariadb": "^3.2.2"
   }
 }
